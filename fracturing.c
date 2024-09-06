@@ -28,9 +28,8 @@
 // }
 
 int main(int argc, char **argv){
-d
+
 //This is where we will call back other functions by simply stating the function name
-askForUserInput();
 
 
 
