@@ -1,6 +1,11 @@
+//Assignment 1, Fracturing
+//Created by student Paul Heffner, UCFID 5645900
+
+
 #include <math.h>
 #include <stdio.h>
 #define PI 3.14159
+
 //Follow the pdf step by step. First lets ask for user input then display the functions all at once. :D
 //haha just kidding just copy and past this code each time to ask for inputs (I made this)
 
